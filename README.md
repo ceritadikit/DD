@@ -1,1 +1,4 @@
-"ini readme" 
+Markdown Cheatsheet
+===================
+
+ Markup :  # Adi Rahman #

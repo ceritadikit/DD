@@ -1,4 +1,4 @@
 Markdown Cheatsheet
 ===================
 
- Markup :  # Adi Rahman #
+# Adi Rahman #
